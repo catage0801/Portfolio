@@ -9,4 +9,25 @@
     </author>
     <id>https://catage0801.github.io/Portfolio</id>
 
+    <entry>
+        <title>hello</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://catage0801.github.io/Portfolio/hello.html"/>
+        <id>https://catage0801.github.io/Portfolio/hello.html</id>
+
+        <updated>2020-09-10T13:17:56+08:00</updated>
+            <summary>
+                <![CDATA[
+                    hello this is test!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>hello</strong></p>
+<p>this is test!</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
