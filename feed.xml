@@ -10,23 +10,327 @@
     <id>https://catage0801.github.io/Portfolio</id>
 
     <entry>
-        <title>hello</title>
+        <title>Diva Photography Studio Website</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://catage0801.github.io/Portfolio/home.html"/>
+        <id>https://catage0801.github.io/Portfolio/home.html</id>
+            <category term="UI/UX"/>
+
+        <updated>2020-10-04T14:42:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://catage0801.github.io/Portfolio/media/posts/8/Feng-Mian.png" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://catage0801.github.io/Portfolio/media/posts/8/Feng-Mian.png" alt="" />
+                
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/8/Desktop-1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-1-xs.png 300w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-1-sm.png 480w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-1-md.png 768w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-1-lg.png 1024w"  height="30048" width="5760" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/8/Desktop-6.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-6-xs.png 300w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-6-sm.png 480w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-6-md.png 768w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-6-lg.png 1024w"  height="17792" width="5760" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>women</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://catage0801.github.io/Portfolio/women.html"/>
+        <id>https://catage0801.github.io/Portfolio/women.html</id>
+
+        <updated>2020-10-04T14:42:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://catage0801.github.io/Portfolio/media/posts/7/Group-7.png" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://catage0801.github.io/Portfolio/media/posts/7/Group-7.png" alt="" />
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TAG</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://catage0801.github.io/Portfolio/tag.html"/>
+        <id>https://catage0801.github.io/Portfolio/tag.html</id>
+            <category term="coding"/>
+            <category term="UI/UX"/>
+
+        <updated>2020-10-04T14:42:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://catage0801.github.io/Portfolio/media/posts/6/109054222_1468461373359873_5371208540046686536_n.jpg" alt="" />
+                     AAA 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://catage0801.github.io/Portfolio/media/posts/6/109054222_1468461373359873_5371208540046686536_n.jpg" alt="" />
+                
+    <h2 id="aaa">
+      AAA
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/6/90485687_844198712715612_1614156392567180758_n.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://catage0801.github.io/Portfolio/media/posts/6/responsive/90485687_844198712715612_1614156392567180758_n-xs.jpg 300w ,https://catage0801.github.io/Portfolio/media/posts/6/responsive/90485687_844198712715612_1614156392567180758_n-sm.jpg 480w ,https://catage0801.github.io/Portfolio/media/posts/6/responsive/90485687_844198712715612_1614156392567180758_n-md.jpg 768w ,https://catage0801.github.io/Portfolio/media/posts/6/responsive/90485687_844198712715612_1614156392567180758_n-lg.jpg 1024w"  height="750" width="750" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/6/109054222_1468461373359873_5371208540046686536_n-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://catage0801.github.io/Portfolio/media/posts/6/responsive/109054222_1468461373359873_5371208540046686536_n-2-xs.jpg 300w ,https://catage0801.github.io/Portfolio/media/posts/6/responsive/109054222_1468461373359873_5371208540046686536_n-2-sm.jpg 480w ,https://catage0801.github.io/Portfolio/media/posts/6/responsive/109054222_1468461373359873_5371208540046686536_n-2-md.jpg 768w ,https://catage0801.github.io/Portfolio/media/posts/6/responsive/109054222_1468461373359873_5371208540046686536_n-2-lg.jpg 1024w"  height="750" width="750" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/6/McDonalds-redesign-Figma-2020-09-11-16-46-45.gif" height="1036" width="1920" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>hello 2</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://catage0801.github.io/Portfolio/hello-2.html"/>
+        <id>https://catage0801.github.io/Portfolio/hello-2.html</id>
+            <category term="illustrations"/>
+
+        <updated>2020-10-04T14:42:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://catage0801.github.io/Portfolio/media/posts/5/Desktop-2-2.png" alt="" />
+                     hello this is test! 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://catage0801.github.io/Portfolio/media/posts/5/Desktop-2-2.png" alt="" />
+                <p><a href="https://getpublii.com/docs/post-editor.html#js-header" target="_blank" rel="noopener noreferrer"></a><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/116sMd5U7UY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></p>
+<p><strong>hello </strong></p>
+<figure class="post__image"><img loading="lazy"  src="https://catage0801.github.io/Portfolio/media/posts/5/90485687_844198712715612_1614156392567180758_n.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://catage0801.github.io/Portfolio/media/posts/5/responsive/90485687_844198712715612_1614156392567180758_n-xs.jpg 300w ,https://catage0801.github.io/Portfolio/media/posts/5/responsive/90485687_844198712715612_1614156392567180758_n-sm.jpg 480w ,https://catage0801.github.io/Portfolio/media/posts/5/responsive/90485687_844198712715612_1614156392567180758_n-md.jpg 768w ,https://catage0801.github.io/Portfolio/media/posts/5/responsive/90485687_844198712715612_1614156392567180758_n-lg.jpg 1024w"  alt=""></figure>
+<p>this<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> is</span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> test!</span></p>
+<p><div class="post__iframe"><iframe loading="lazy" width="800" height="450" style="border: 1px solid rgba(0, 0, 0, 0.1);" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFjNxnFaaDEwMCW5XktRtOE%2FMcDonald-s-redesign%3Fnode-id%3D60%253A376%26viewport%3D1568%252C-139%252C1%26scaling%3Dscale-down&amp;chrome=DOCUMENTATION" allowfullscreen="allowfullscreen"></iframe></div></p>
+<p class="msg--highlight     msg--info"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>about</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://catage0801.github.io/Portfolio/about.html"/>
+        <id>https://catage0801.github.io/Portfolio/about.html</id>
+
+        <updated>2020-10-04T14:42:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://catage0801.github.io/Portfolio/media/posts/4/Xia-Zai.png" alt="" />
+                     1234 aaa 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://catage0801.github.io/Portfolio/media/posts/4/Xia-Zai.png" alt="" />
+                
+  <div  class="gallery-wrapper gallery-wrapper--full">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://catage0801.github.io/Portfolio/media/posts/4/gallery/01.PNG" data-size="1779x871">
+        <img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/4/gallery/01-thumbnail.PNG" height="376" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://catage0801.github.io/Portfolio/media/posts/4/gallery/02.PNG" data-size="1776x879">
+        <img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/4/gallery/02-thumbnail.PNG" height="380" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://catage0801.github.io/Portfolio/media/posts/4/gallery/03.PNG" data-size="1780x809">
+        <img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/4/gallery/03-thumbnail.PNG" height="349" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <ul>
+    <li>1</li><li>2</li><li>3</li><li>4</li>
+  </ul>
+
+    <h2 id="aaa">
+      aaa
+    </h2>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>wow</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://catage0801.github.io/Portfolio/wow.html"/>
+        <id>https://catage0801.github.io/Portfolio/wow.html</id>
+
+        <updated>2020-10-04T14:42:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://catage0801.github.io/Portfolio/media/posts/3/1348.png" alt="" />
+                     how are you how are you? 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://catage0801.github.io/Portfolio/media/posts/3/1348.png" alt="" />
+                
+    <h2 id="how-are-you">
+      how are you
+    </h2>
+<div><p>how are you?</p></div>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://catage0801.github.io/Portfolio/media/posts/3/gallery/41332.png" data-size="240x180">
+        <img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/3/gallery/41332-thumbnail.png" height="180" width="240" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TEST</title>
+        <author>
+            <name>Enid</name>
+        </author>
+        <link href="https://catage0801.github.io/Portfolio/test.html"/>
+        <id>https://catage0801.github.io/Portfolio/test.html</id>
+
+        <updated>2020-10-04T14:42:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://catage0801.github.io/Portfolio/media/posts/2/4361.png" alt="" />
+                    5262 a slow, lazy person; a sluggard. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://catage0801.github.io/Portfolio/media/posts/2/4361.png" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://catage0801.github.io/Portfolio/media/posts/2/gallery/3183.png" data-size="240x180"><img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/2/gallery/3183-thumbnail.png" alt="4" width="240" height="180"></a></figure>
+<figure class="gallery__item"><a href="https://catage0801.github.io/Portfolio/media/posts/2/gallery/4035.png" data-size="80x60"><img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/2/gallery/4035-thumbnail.png" alt="5" width="80" height="60"></a>
+<figcaption>52</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://catage0801.github.io/Portfolio/media/posts/2/gallery/4361.png" data-size="240x180"><img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/2/gallery/4361-thumbnail.png" alt="6" width="240" height="180"></a>
+<figcaption>62</figcaption>
+</figure>
+</div></div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<blockquote>
+<p><span style="color: #000000;">a slow, lazy person; a sluggard.</span></p>
+<p> </p>
+<table style="border-collapse: collapse; width: 89.8119%; height: 161px;" border="1" cellspacing="100" cellpadding="10">
+<tbody>
+<tr style="height: 81px;">
+<td style="width: 11.1111%; height: 81px;"> </td>
+<td style="width: 11.1111%; height: 81px;"> </td>
+<td style="width: 11.1111%; height: 81px;"> </td>
+<td style="width: 11.1111%; height: 81px;"> </td>
+<td style="width: 11.1111%; height: 81px;"> </td>
+<td style="width: 11.1111%; height: 81px;"> </td>
+<td style="width: 11.1111%; height: 81px;"> </td>
+<td style="width: 27.2553%; height: 81px;"> </td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 27.2553%; height: 51px;"> </td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 11.1111%; height: 51px;"> </td>
+<td style="width: 27.2553%; height: 51px;"> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+</blockquote>
+<p> </p>
+<p> </p>
+<p><img loading="lazy" src="https://catage0801.github.io/Portfolio/media/posts/2/Payment_mCard_PC574.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://catage0801.github.io/Portfolio/media/posts/2/responsive/Payment_mCard_PC574-xs.jpg 300w ,https://catage0801.github.io/Portfolio/media/posts/2/responsive/Payment_mCard_PC574-sm.jpg 480w ,https://catage0801.github.io/Portfolio/media/posts/2/responsive/Payment_mCard_PC574-md.jpg 768w ,https://catage0801.github.io/Portfolio/media/posts/2/responsive/Payment_mCard_PC574-lg.jpg 1024w"  alt="點點卡" width="500" height="400"></p>
+<p> </p>
+<p class="msg msg--info dropcap msg--highlight "> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>McDonald&#x27;s Redesign</title>
         <author>
             <name>Enid</name>
         </author>
         <link href="https://catage0801.github.io/Portfolio/hello.html"/>
         <id>https://catage0801.github.io/Portfolio/hello.html</id>
+            <category term="UI/UX"/>
 
-        <updated>2020-09-10T13:17:56+08:00</updated>
-            <summary>
-                <![CDATA[
-                    hello this is test!
-                ]]>
-            </summary>
+        <updated>2020-10-04T14:42:21+08:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p><strong>hello</strong></p>
-<p>this is test!</p>
+                    <img src="https://catage0801.github.io/Portfolio/media/posts/1/Desktop-6-2.png" alt="" />
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://catage0801.github.io/Portfolio/media/posts/1/Desktop-2-6.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://catage0801.github.io/Portfolio/media/posts/1/responsive/Desktop-2-6-xs.png 300w ,https://catage0801.github.io/Portfolio/media/posts/1/responsive/Desktop-2-6-sm.png 480w ,https://catage0801.github.io/Portfolio/media/posts/1/responsive/Desktop-2-6-md.png 768w ,https://catage0801.github.io/Portfolio/media/posts/1/responsive/Desktop-2-6-lg.png 1024w"  alt="" width="846" height="3677"></figure>
             ]]>
         </content>
     </entry>
