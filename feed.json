@@ -21,8 +21,8 @@
                    "coding",
                    "UI/UX"
             ],
-            "date_published": "2020-10-06T00:51:11+08:00",
-            "date_modified": "2020-10-06T00:51:11+08:00"
+            "date_published": "2020-10-06T00:53:33+08:00",
+            "date_modified": "2020-10-06T00:53:33+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/home.html",
@@ -37,8 +37,8 @@
             "tags": [
                    "UI/UX"
             ],
-            "date_published": "2020-10-06T00:51:11+08:00",
-            "date_modified": "2020-10-06T00:51:11+08:00"
+            "date_published": "2020-10-06T00:53:33+08:00",
+            "date_modified": "2020-10-06T00:53:33+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/women.html",
@@ -51,9 +51,10 @@
                 "name": "Enid"
             },
             "tags": [
+                   "illustrations"
             ],
-            "date_published": "2020-10-06T00:51:11+08:00",
-            "date_modified": "2020-10-06T00:51:11+08:00"
+            "date_published": "2020-10-06T00:53:33+08:00",
+            "date_modified": "2020-10-06T00:53:33+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/hello.html",
@@ -67,8 +68,8 @@
             "tags": [
                    "UI/UX"
             ],
-            "date_published": "2020-10-06T00:51:11+08:00",
-            "date_modified": "2020-10-06T00:51:11+08:00"
+            "date_published": "2020-10-06T00:53:33+08:00",
+            "date_modified": "2020-10-06T00:53:33+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/hello-4.html",
@@ -84,8 +85,8 @@
                    "coding",
                    "UI/UX"
             ],
-            "date_published": "2020-10-06T00:51:11+08:00",
-            "date_modified": "2020-10-06T00:51:11+08:00"
+            "date_published": "2020-10-06T00:53:33+08:00",
+            "date_modified": "2020-10-06T00:53:33+08:00"
         }
     ]
 }
