@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://catage0801.github.io/Portfolio/home.html",
-            "url": "https://catage0801.github.io/Portfolio/home.html",
+            "id": "https://catage0801.github.io/Portfolio/diva_photography_studio.html",
+            "url": "https://catage0801.github.io/Portfolio/diva_photography_studio.html",
             "title": "Diva Photography Studio Website",
             "summary": " ",
             "content_html": "\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://catage0801.github.io/Portfolio/media/posts/8/Desktop-1.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-1-xs.png 300w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-1-sm.png 480w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-1-md.png 768w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-1-lg.png 1024w\"  height=\"30048\" width=\"5760\" alt=\"\" />\n      \n    </figure>\n\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://catage0801.github.io/Portfolio/media/posts/8/Desktop-6.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-6-xs.png 300w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-6-sm.png 480w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-6-md.png 768w ,https://catage0801.github.io/Portfolio/media/posts/8/responsive/Desktop-6-lg.png 1024w\"  height=\"17792\" width=\"5760\" alt=\"\" />\n      \n    </figure>",
@@ -22,8 +22,8 @@
             "tags": [
                    "UI/UX"
             ],
-            "date_published": "2020-10-11T01:57:14+08:00",
-            "date_modified": "2020-10-11T01:57:14+08:00"
+            "date_published": "2020-10-11T01:59:26+08:00",
+            "date_modified": "2020-10-11T01:59:26+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/hello.html",
@@ -37,8 +37,8 @@
             "tags": [
                    "UI/UX"
             ],
-            "date_published": "2020-10-11T01:57:14+08:00",
-            "date_modified": "2020-10-11T01:57:14+08:00"
+            "date_published": "2020-10-11T01:59:26+08:00",
+            "date_modified": "2020-10-11T01:59:26+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/hello-5.html",
@@ -54,8 +54,8 @@
                    "coding",
                    "UI/UX"
             ],
-            "date_published": "2020-10-11T01:57:14+08:00",
-            "date_modified": "2020-10-11T01:57:14+08:00"
+            "date_published": "2020-10-11T01:59:26+08:00",
+            "date_modified": "2020-10-11T01:59:26+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/hello-4.html",
@@ -71,8 +71,8 @@
                    "coding",
                    "UI/UX"
             ],
-            "date_published": "2020-10-11T01:57:14+08:00",
-            "date_modified": "2020-10-11T01:57:14+08:00"
+            "date_published": "2020-10-11T01:59:26+08:00",
+            "date_modified": "2020-10-11T01:59:26+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/05.html",
@@ -87,8 +87,8 @@
             "tags": [
                    "illustrations"
             ],
-            "date_published": "2020-10-11T01:57:14+08:00",
-            "date_modified": "2020-10-11T01:57:14+08:00"
+            "date_published": "2020-10-11T01:59:26+08:00",
+            "date_modified": "2020-10-11T01:59:26+08:00"
         }
     ]
 }
