@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "test",
+    "title": "Enid&#x27;s Portfolio",
     "description": "",
     "home_page_url": "https://catage0801.github.io/Portfolio",
     "feed_url": "https://catage0801.github.io/Portfolio/feed.json",
@@ -22,8 +22,8 @@
             "tags": [
                    "UI/UX"
             ],
-            "date_published": "2020-10-11T01:55:46+08:00",
-            "date_modified": "2020-10-11T01:55:46+08:00"
+            "date_published": "2020-10-11T01:57:14+08:00",
+            "date_modified": "2020-10-11T01:57:14+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/hello.html",
@@ -37,8 +37,8 @@
             "tags": [
                    "UI/UX"
             ],
-            "date_published": "2020-10-11T01:55:46+08:00",
-            "date_modified": "2020-10-11T01:55:46+08:00"
+            "date_published": "2020-10-11T01:57:14+08:00",
+            "date_modified": "2020-10-11T01:57:14+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/hello-5.html",
@@ -54,8 +54,8 @@
                    "coding",
                    "UI/UX"
             ],
-            "date_published": "2020-10-11T01:55:46+08:00",
-            "date_modified": "2020-10-11T01:55:46+08:00"
+            "date_published": "2020-10-11T01:57:14+08:00",
+            "date_modified": "2020-10-11T01:57:14+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/hello-4.html",
@@ -71,8 +71,8 @@
                    "coding",
                    "UI/UX"
             ],
-            "date_published": "2020-10-11T01:55:46+08:00",
-            "date_modified": "2020-10-11T01:55:46+08:00"
+            "date_published": "2020-10-11T01:57:14+08:00",
+            "date_modified": "2020-10-11T01:57:14+08:00"
         },
         {
             "id": "https://catage0801.github.io/Portfolio/05.html",
@@ -87,8 +87,8 @@
             "tags": [
                    "illustrations"
             ],
-            "date_published": "2020-10-11T01:55:46+08:00",
-            "date_modified": "2020-10-11T01:55:46+08:00"
+            "date_published": "2020-10-11T01:57:14+08:00",
+            "date_modified": "2020-10-11T01:57:14+08:00"
         }
     ]
 }
